@@ -1,0 +1,6 @@
+Scenario
+
+You are thinking of opening a small copy shop. It costs $5000 to rent a copier for a year, and it costs $0.03 per copy to operate the
+copier. Other fixed costs of running the store will amount to $400 per month. You plan to charge an average of $.10 per copy and the
+store will be open 365 days per year. Each copier can make up to 100,000 copies per year. You expect that the demand could be
+anywhere from 500 to 2000 copies per day.

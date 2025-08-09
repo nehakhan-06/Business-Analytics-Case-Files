@@ -1,0 +1,12 @@
+Scenario
+
+A company is considering paying $150,000 at the beginning of the year to get into an investment. The cash inflows at the ends of years
+1 through 5 are listed in the table below. The company uses a discount rate of 15% to compute net present value (NPV).
+
+Year Cash Inflow (end of year)
+1 $30,000
+2 $65,000
+3 $80,000
+4 $75,000
+
+5 $55,000

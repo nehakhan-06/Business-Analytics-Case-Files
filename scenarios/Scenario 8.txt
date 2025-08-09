@@ -1,0 +1,14 @@
+Alarge drug company, Gopher Drugs, is deciding whether one of its new drugs, Iguazu, is worth pursuing. Iguazu is
+in the final stages of development and will be ready to enter the market one year from now. The final cost of
+development, to be incurred at the beginning of year 1, is $9.3M. The company estimates that the demand for
+Iguazu will gradually grow and then decline over its useful lifetime of 20 years. Specifically the company expects ts
+gross margins (revenue minus cost) to be $1.2M in year 1, then to increase at an annual rate of 10% through year,
+and finally to decrease at an annual rate of 5% through year 20. Gopher Drugs wants to develop a spreadsheet
+model of its 20-year cash flows, assuming its cash flows, other than the initial development cost, are incurred at
+the end of the respective years. Using an annual discount rate of 129 for purposes of calculating net present value
+(NPV), the drug company wants to answer the following questions:
+
+1. Isthe drug worth pursuing, or should Gopher Drugs abandon it now and not incur the $9.3M development
+cost?
+
+2. How do changes in the model change the answer to the prior question?

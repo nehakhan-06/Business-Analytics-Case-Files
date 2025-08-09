@@ -1,0 +1,6 @@
+Scenario
+
+You are going to manage a band, The Screamin’ Blue Jays, which will go on tour across the United States. The tour costs $5.5 million to
+fund and develop. There will be 5 concerts per week and you project the band to be on the road for 30 weeks. The average cost to rent
+different venues on tour is $1000 per show. Tickets will sell at $50 each. You also earn an average of $1.50 profit per ticket from
+concession sales. Each venue has a maximum capacity of 800 seats and you expect 80% of the seats to be full.

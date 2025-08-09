@@ -1,0 +1,15 @@
+Data
+
+The table below lists the annual revenue (in millions of US dollars) for the exercise bicycle manufacturer Peloton for the years 2017
+through 2021. For convenience, the data is also contained in the attached file Peloton_Revenue.xlsx.
+
+Year Revenue (millions of USD)
+2017 2186
+
+2018 435.0
+
+2019 915.0
+
+2020 1825.9
+
+2021 $4021.8

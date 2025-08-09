@@ -1,0 +1,21 @@
+Part 2: Toy Company
+
+Inthe second par of the quiz, you wil reate.a model for possible new business.
+
+Scenari
+
+You are the product manager of a toy company thinking of launching a new product, the indoor fort bulding Kit. Your critics say these.
+arejust overpriced cardboard boes, but you know this product ill be successful and you seek out initial investors.
+
+Atthe tar of year 1 (ight now), you willincur a cos of $4 million to build and staff production factory. Inyear 1, you expect to sel
+50,00 its at unit pric of $25 each. The price of $25 will remain unchanged through years 1 to 5. Unit sales are expected to grow by
+the same percentage (g) each year. During years 10 5, you Incur two types of costs: variable cost and fixed SG&A (selling general, and
+administrative) costs. Each year, variable costs equal half of revenue. During year 1, SGEA costs equal 40% of revenue. Thi percentage
+is assumed to drop 29 per yea, so during year 2, SG&A cost will equal 38% of revenue, and s0 on.
+
+Your goalis to pay back the $4M investment by the end of year.
+
+Model Set-Up
+Build a spreadsheet with atable to model the revenue, costs, and profit for years throughs.
+
+Be sure toinclude a cell for the unknown yearly growth rate g, Color code this cell and set it to any number you'd lik for now.

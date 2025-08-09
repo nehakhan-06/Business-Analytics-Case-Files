@@ -1,0 +1,29 @@
+Scenario
+
+The 19th Hole sels golf clubs tis olf ote stores throughout hel. The company knows tha the demand for
+tcl aris considerably with pric. Inte last year the demand a ach price lvel was recorded in the able
+
+belon.
+Month price Demand 00s)
+3 50 1s
+2 m @
+3 wo ws
+4 50 -
+s = us
+6 50 2
+7 0 a
+fl Po -
+fi son =
+» om “
+u = Py
+2 = -
+
+The company wants o estimate the relationship between demand and price and then use this estimated
+relationship to answer the following questions:
+
+Assuming the uni cos f producing ase of clubs $250, and th price mst be a multiple of 10, what price
+should the company charge to maximizes prof?
+
+Howdoes the optimal price depend onthe unt cot of producing a set of clubs?
+
+Isthe model an accurate representation f realty?

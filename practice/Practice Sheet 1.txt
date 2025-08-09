@@ -1,0 +1,7 @@
+Scenario
+
+Jackson will be opening a hot dog stand called Haute Dog on Falls Road, in Baltimore, Maryland. The one-time startup cost is $500. He
+is expecting to be open 6 days a week and he expects to sell 100 hot dogs a day at $4 each. The variable cost of the hot dog (which
+includes napkins and toppings) is $0.50 per dog.
+
+Create a spreadsheet to model Haute Dog’s costs, revenues, and profits.

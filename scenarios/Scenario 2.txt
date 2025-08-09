@@ -1,0 +1,15 @@
+Scenario
+
+The company PETROL sells designer jeans made from cotton with steel buttons, rivets, and zippers. The current prices for materials
+
+and labor are shown in the table below.
+
+Resource Unit Cost
+
+Cotton $1.65 per kilogram
+Hardware (buttons, rivets, zipper) $1.42 per set
+Labor $12 per hour
+
+Manufacturing a single pair of jeans requires 1.2 kilogram of cotton, 1 set of hardware, and 4.5 hours of labor.
+
+Set up a spreadsheet to model this scenario in Excel.
